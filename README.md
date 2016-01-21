@@ -1,6 +1,7 @@
 use Gradle:
 
-allprojects {
+```gradle
+allprojects {  
 		repositories {
 			...
 			maven { url "https://jitpack.io" }
@@ -10,3 +11,4 @@ allprojects {
 dependencies {
 		compile 'com.github.locbvh:expandablelayout'
 	}
+```
