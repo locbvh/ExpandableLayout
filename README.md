@@ -9,6 +9,6 @@ allprojects {
 	}
 
 dependencies {
-		compile 'com.github.locbvh:expandablelayout'
+		compile 'com.github.locbvh:ExpandableLayout:1.0'
 	}
 ```
